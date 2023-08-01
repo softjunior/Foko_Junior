@@ -1,0 +1,25 @@
+
+.form-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.form-content-input{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+input[type=text],input[type=password]{
+                width: 30rem;
+                height: 1.5rem;
+                }
+.button-content{
+    padding: 1rem;
+}
+input[type=reset],input[type=submit]{
+                width: 15rem;
+                height: 1.5rem;
+}
