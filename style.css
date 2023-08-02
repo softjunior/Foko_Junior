@@ -200,7 +200,7 @@ input[type=checkbox] {
             text-align: center;
             position: absolute;
             height: 4rem;
-            top: 130px;
+            top: 160px;
             left: auto;
             border-radius: 10px;
           }
@@ -210,7 +210,7 @@ input[type=checkbox] {
              background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
-            margin-bottom: 100%;
+            margin-bottom: 99%;
           }
 }
   
