@@ -223,7 +223,7 @@ input[type=checkbox] {
 .ti{
   display: inline;
 }  
-@media (max-width: 3175px){
+/* @media (max-width: 3175px){
   body{
     font-family: cursive;
     background: url(video/qw_gif_AdobeExpress.gif);
@@ -232,7 +232,7 @@ input[type=checkbox] {
     background-position: center;
     margin-bottom: 90%;
   }
-}
+} */
   /* *{
     margin: 0;
     padding: 0;
