@@ -221,7 +221,16 @@ input[type=checkbox] {
           }
 }
   
-
+@media (max-width: 3175px){
+  body{
+    font-family: cursive;
+    background: url(video/qw_gif_AdobeExpress.gif);
+     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-bottom: 90%;
+  }
+}
   /* *{
     margin: 0;
     padding: 0;
